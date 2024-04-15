@@ -56,7 +56,7 @@ Isso indica que 7 é um número primo.
 
 Este algoritmo é útil para verificar se um número é primo e encontrar seus divisores caso não seja. Ele utiliza conceitos básicos de C++, como loops, condicionais e vetores, para realizar essas tarefas de forma eficiente.
 
-```
+```markdown
 #include<bits/stdc++.h>
 using namespace std;
 
